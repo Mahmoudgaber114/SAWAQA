@@ -19,6 +19,6 @@ SAWAQA is a web application designed to connect individuals seeking to learn dri
 5- Interact with Trainee: Captains interact with the Trainee to arrange the details of the driving lesson.
 6- Close Session: After the session, Captains can close the session.
 
-#Technology Used:
+# Technology Used:
 - Frontend: Utilizes HTML, CSS, JavaScript, Bootstrap, and jQuery for the user interface.
 - Backend: Developed using PHP Laravel framework for server-side functionality and database management.
