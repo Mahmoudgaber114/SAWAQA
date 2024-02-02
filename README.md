@@ -11,7 +11,7 @@ SAWAQA is a web application designed to connect individuals seeking to learn dri
 5- Begin Learning: Trainees start learning to drive under the guidance of the Captain.
 6- Close Session and Rate Captain: After the session, Trainees can close the session and provide feedback by rating the Captain.
 
-For Captains (Trainers):
+- For Captains (Trainers):
 1- Create an Account and Login: Captains need to create a SAWAQA account and log in to access the platform's features.
 2- Open GPS: Captains should enable GPS on their device to determine their current location accurately.
 3- Wait for Notification: Captains wait to receive notification messages from Trainees requesting driving lessons.
