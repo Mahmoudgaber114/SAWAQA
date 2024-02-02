@@ -4,6 +4,8 @@ SAWAQA is a web application designed to connect individuals seeking to learn dri
 # How to Use SAWAQA:
 
 - For Trainees:
+
+  
 1- Create an Account and Login: Trainees need to create a SAWAQA account and log in to access the platform's features.
 2- Open GPS: Trainees should enable GPS on their device to determine their current location accurately.
 3- Book a Lesson: Trainees can book a driving lesson through the application and wait for a Captain to respond.
@@ -12,6 +14,8 @@ SAWAQA is a web application designed to connect individuals seeking to learn dri
 6- Close Session and Rate Captain: After the session, Trainees can close the session and provide feedback by rating the Captain.
 
 - For Captains (Trainers):
+
+  
 1- Create an Account and Login: Captains need to create a SAWAQA account and log in to access the platform's features.
 2- Open GPS: Captains should enable GPS on their device to determine their current location accurately.
 3- Wait for Notification: Captains wait to receive notification messages from Trainees requesting driving lessons.
@@ -20,5 +24,7 @@ SAWAQA is a web application designed to connect individuals seeking to learn dri
 6- Close Session: After the session, Captains can close the session.
 
 # Technology Used:
+
+
 - Frontend: Utilizes HTML, CSS, JavaScript, Bootstrap, and jQuery for the user interface.
 - Backend: Developed using PHP Laravel framework for server-side functionality and database management.
